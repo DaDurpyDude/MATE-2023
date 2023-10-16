@@ -1,3 +1,5 @@
+#Slugbotics copyright 2023
+
 import tkinter as tk
 
 clicks = 0
